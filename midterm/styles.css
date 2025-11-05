@@ -26,4 +26,6 @@
 nav ul {
  display: flex;
  justify-content: evenly;
+ list-style: none;
+ gap: 20px;
 }
